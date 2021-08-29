@@ -53,9 +53,9 @@ int main(void)
 	test("echo test| aiueo");
 	test("echo test |aiueo");
 	test("echo test | aiueo");
-	test("echo test|");
-	test("echo test |");
-	test("echo test| ");
+	// test("echo test|");
+	// test("echo test |");
+	// test("echo test| ");
 
 	printf("\n> > >\n");
 	test("echo test>aiueo");
